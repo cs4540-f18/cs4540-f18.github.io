@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Course Info
 
-You can use the [editor on GitHub](https://github.com/cs4540-f18/cs4540-f18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Professor:** Jacob Abernethy
+**TAs:** Benjamin Bray and Naveen Kodali
+**Location:** Tu/Th 3-4:15pm in Klaus 2443
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an advanced course on algorithms. That is quite a broad topic, and in particular this semester’s course will focus heavily on algorithms for machine learning. We will be especially interested in diving into the following topics: Numerical Analysis, Convex Optimization, and Probability and Statistics. While students should have a strong back background in core algorithmic concepts, linear algebra, and probability, we will review many of these topics early in the course. Students will be required to write code in Python, and we will present much of the material in the course using the Jupyter Notebook (the use of such notebooks will be reviewed in Lecture 2).
 
-### Markdown
+## Hands-on Format
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Most courses are taught with the following structure: Students learn about material in class through lecture, and then they practice problem solving on their own by doing homework. In this course we will do the opposite! Students will be required to read material before each class period, and then arrive in class ready to dive into problem-solving.  Lecture notes for each day will be posted online at least one week prior to each lecture.
 
-```markdown
-Syntax highlighted code block
+Why do it like this? The lecture format is an outdated way to teach mathematical material, especially for topics such as algorithms and machine learning where it is so easy to play with code and implement ideas. The lecture format also limits the professor’s ability to interact directly with students.
 
-# Header 1
-## Header 2
-### Header 3
+Each class period will have the following structure:
 
-- Bulleted
-- List
+* *(0mins)* Students arrive and organize themselves by sitting with their group
+* *(5mins)* Students take a very short and simple quiz on assigned reading material
+* *(55mins)* Problem time! Instructor presents a sequence of problems, and students are given 5-10 minutes per problem to try to solve each one with their group. Instructors will move around the classroom to engage with students and answer questions.
+* *(15mins)* Class wraps with a brief description of the forthcoming material for next period, in a “mini lecture”
 
-1. Numbered
-2. List
+## Grading
 
-**Bold** and _Italic_ and `Code` text
+The course grades will be determined as follows.  Note that the in-class quizzes will be graded generously, and 50% of the credit will be given simply for showing up and answering the questions.
 
-[Link](url) and ![Image](src)
-```
+* Homeworks (35%)
+* Attendance + Quizzes (15%)
+* Midterm Exam (20%)
+* Final Exam (30%)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Assignments
 
-### Jekyll Themes
+TODO
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cs4540-f18/cs4540-f18.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Schedule
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TODO
