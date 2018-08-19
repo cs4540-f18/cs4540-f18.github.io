@@ -1,7 +1,7 @@
 # Course Info
 
-**Professor:** Jacob Abernethy
-**TAs:** Benjamin Bray and Naveen Kodali
+**Professor:** Jacob Abernethy<br>
+**TAs:** Benjamin Bray and Naveen Kodali<br>
 **Location:** Tu/Th 3-4:15pm in Klaus 2443
 
 This is an advanced course on algorithms. That is quite a broad topic, and in particular this semester’s course will focus heavily on algorithms for machine learning. We will be especially interested in diving into the following topics: Numerical Analysis, Convex Optimization, and Probability and Statistics. While students should have a strong back background in core algorithmic concepts, linear algebra, and probability, we will review many of these topics early in the course. Students will be required to write code in Python, and we will present much of the material in the course using the Jupyter Notebook (the use of such notebooks will be reviewed in Lecture 2).
