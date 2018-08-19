@@ -34,4 +34,34 @@ TODO
 
 # Schedule
 
-TODO
+(Tu 8/21/18) **Lecture #1**:  Introduction & Perceptron
+
+* CMU 15-859(B), Lecture #4, [The Perceptron Algorithm](https://www.cs.cmu.edu/~avrim/ML10/lect0125.pdf) by Avrim Blum
+* Raul Rojas, Neural Networks:  A Systematic Introduction
+  * [Ch 4:  Perceptron Learning](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
+  * [Ch 5:  Unsupervised Learning and Clustering Algorithms](https://page.mi.fu-berlin.de/rojas/neural/chapter/K5.pdf)
+  
+(Th 8/23/18) **Lecture #2**:  Review of Linear Algebra & Intro to Numpy
+
+Required Reading (before class!)
+* [Notebook]  CS 4540:  Python Basics
+Additional Resources
+* MIT OCW 18.06 Linear Algebra Lecture Videos
+
+	
+(Tu 8/28/18) **Lecture #3**:  Review of Calculus & Intro to Optimization
+
+* See Boyd & Vandenberghe, Convex Optimization, §2.1-2.4 
+
+(Th 8/30/18) **Lecture #4**:  Convexity & Optimization
+
+* Stanford EE364a, Lecture #2:  Convex Sets ([Slides](http://web.stanford.edu/class/ee364a/lectures/sets.pdf), [Video](https://www.youtube.com/watch?v=P3W_wFZ2kUo))
+* Stanford EE364a, Lecture #3:  Convex Functions ([Slides](http://web.stanford.edu/class/ee364a/lectures/functions.pdf), [Video](https://www.youtube.com/watch?v=kcOodzDGV4c))
+* See Boyd & Vandenberghe, Convex Optimization, §2.1-2.4 
+
+(Tu 9/4/18) **Lecture #5**:  Linear Programming
+
+* Stanford CS261 Lecture Notes by Tim Roughgarden
+  * [Lecture 7: Linear Programming: Introduction and Applications](http://theory.stanford.edu/~tim/w16/l/l7.pdf)
+  * [Lecture 8: Linear Programming Duality (Part 1)](http://theory.stanford.edu/~tim/w16/l/l8.pdf)
+  * [Lecture 9: Linear Programming Duality (Part 2)](http://theory.stanford.edu/~tim/w16/l/l9.pdf)
