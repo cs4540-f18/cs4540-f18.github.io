@@ -52,6 +52,7 @@ TODO
 
 Required Reading (before class!)
 * Notes, [CS 4540:  Python Basics](https://cs4540-f18.github.io/notes/python-basics)
+
 Additional Resources
 * MIT OCW 18.06 Linear Algebra Lecture Videos
 
@@ -81,6 +82,7 @@ Additional Resources
 
 (Tu 9/4/18) **Lecture #5:  Linear Programming**
 
+Required Reading
 * Stanford CS261 Lecture Notes by Tim Roughgarden
   * [Lecture 7: Linear Programming: Introduction and Applications](http://theory.stanford.edu/~tim/w16/l/l7.pdf)
   * [Lecture 8: Linear Programming Duality (Part 1)](http://theory.stanford.edu/~tim/w16/l/l8.pdf)
