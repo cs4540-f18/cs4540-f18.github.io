@@ -73,6 +73,7 @@ Additional Resources
 
 Required Reading (before class!)
 * Notes, [CS 4540:  Python Basics](https://cs4540-f18.github.io/notes/python-basics)
+* Brush up on linear algebra!
 
 Additional Resources
 * MIT OCW 18.06 Linear Algebra Lecture Videos
@@ -81,6 +82,7 @@ Additional Resources
 (Tu 8/28/18) **Lecture #3:  Review of Calculus & Intro to Optimization**
 
 Required Reading
+* Brush up on calculus!
 * Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 	* §2.1 Affine and Convex Sets
 	* §2.2 Important Examples (of Affine and Convex Sets)
