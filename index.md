@@ -28,6 +28,13 @@ The course grades will be determined as follows.  Note that the in-class quizzes
 * Midterm Exam (20%)
 * Final Exam (30%)
 
+## Reading
+
+All required readings will either be linked to here or posted on Canvas as a PDF.  There is no required textbook for this course, but you may find the following books helpful:
+
+* Boyd & Vandengerbhe, *Convex Optimization* ([Free PDF](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf))
+* Trefethen & Bau, *Numerical Linear Algebra*
+
 ## Assignments
 
 TODO
@@ -51,13 +58,26 @@ Additional Resources
 	
 (Tu 8/28/18) **Lecture #3**:  Review of Calculus & Intro to Optimization
 
-* See Boyd & Vandenberghe, Convex Optimization, §2.1-2.4 
+Required Reading
+* Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+	* §2.1 Affine and Convex Sets
+	* §2.2 Important Examples (of Affine and Convex Sets)
+	* §3.1 Basic Properties and Examples (of Convex Functions)
+
+Additional Resources
+* Stanford EE364a, Lecture #2:  Convex Sets ([Slides](http://web.stanford.edu/class/ee364a/lectures/sets.pdf), [Video](https://www.youtube.com/watch?v=P3W_wFZ2kUo))
+* Stanford EE364a, Lecture #3:  Convex Functions ([Slides](http://web.stanford.edu/class/ee364a/lectures/functions.pdf), [Video](https://www.youtube.com/watch?v=kcOodzDGV4c))
 
 (Th 8/30/18) **Lecture #4**:  Convexity & Optimization
 
-* Stanford EE364a, Lecture #2:  Convex Sets ([Slides](http://web.stanford.edu/class/ee364a/lectures/sets.pdf), [Video](https://www.youtube.com/watch?v=P3W_wFZ2kUo))
-* Stanford EE364a, Lecture #3:  Convex Functions ([Slides](http://web.stanford.edu/class/ee364a/lectures/functions.pdf), [Video](https://www.youtube.com/watch?v=kcOodzDGV4c))
-* See Boyd & Vandenberghe, Convex Optimization, §2.1-2.4 
+Required Reading
+* Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+	* §2.5 Separating & Supporting Hyperplanes
+
+Additional Resources
+* Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+	* §2.3 Operations that Preserve Convex Sets
+	* §3.2 Operations that Preserve Convex Functions
 
 (Tu 9/4/18) **Lecture #5**:  Linear Programming
 
