@@ -40,7 +40,9 @@ Quizzes will be entered electronically, via a web form, so make sure you have a 
 * 1 point for an incorrect answer
 * 0 points for not taking the quiz
 
-Your **five lowest quiz scores will be dropped**, which should be enough to account for quizzes missed due to planned or unplanned absences.  
+Your **five lowest quiz scores will be dropped**, which should be enough to account for quizzes missed due to planned or unplanned absences.
+
+Students are allowed, and indeed encouraged, to work on homework with other students in the course. But when solutions are written up, this should be done alone and without the help of other students. Students are required to specify on their writeups which students that collaborated with. If we find solutions that appear even remotely to have been copied, these will be given a zero and the students will be notified.
 
 ## Reading
 
@@ -51,7 +53,7 @@ Readings will be assigned for you to complete *before each lecture*.  All requir
 
 ## Homework
 
-TODO
+Coming soon!
 
 # Schedule
 
