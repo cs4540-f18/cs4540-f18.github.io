@@ -4,11 +4,17 @@
 **TAs:** Benjamin Bray and Naveen Kodali<br>
 **Location:** Tu/Th 3-4:15pm in Klaus 2443
 
-This is an advanced course on algorithms. That is quite a broad topic, and in particular this semester’s course will focus heavily on algorithms for machine learning. We will be especially interested in diving into the following topics: Numerical Analysis, Convex Optimization, and Probability and Statistics. While students should have a strong back background in core algorithmic concepts, linear algebra, and probability, we will review many of these topics early in the course. Students will be required to write code in Python, and we will present much of the material in the course using the Jupyter Notebook (the use of such notebooks will be reviewed in Lecture 2).
+This is an advanced course on algorithms. That is quite a broad topic, and in particular this semester’s course will focus heavily on **algorithms for machine learning**. We will be especially interested in diving into the following topics:
+
+* Numerical Analysis
+* Convex Geometry & Optimization
+* Probability & Statistical Inference
+
+While students should have a strong back background in core algorithmic concepts, linear algebra, calculus, and probability, we will review many of these topics early in the course. Students will be required to write code in Python, and we will present much of the material in the course using [Jupyter Notebooks](http://jupyter.org/).
 
 ## Hands-on Format
 
-Most courses are taught with the following structure: Students learn about material in class through lecture, and then they practice problem solving on their own by doing homework. In this course we will do the opposite! Students will be required to read material before each class period, and then arrive in class ready to dive into problem-solving.  Lecture notes for each day will be posted online at least one week prior to each lecture.
+In most courses, students learn about material in class through lecture, and then they practice problem solving on their own by doing homework.  In this course we will do the opposite! Students will be required to read material before each class period, and then arrive in class ready to dive into problem-solving.  This way, students can familiarize themselves with basic definitions and examples at home, and benefit from one-on-one interaction with the course staff during lecture while working through more challenging aspects of the material.  Lecture notes for each day will be posted online at least one week prior to each lecture (with the first week as an exception).
 
 Why do it like this? The lecture format is an outdated way to teach mathematical material, especially for topics such as algorithms and machine learning where it is so easy to play with code and implement ideas. The lecture format also limits the professor’s ability to interact directly with students.
 
@@ -23,10 +29,18 @@ Each class period will have the following structure:
 
 The course grades will be determined as follows.  Note that the in-class quizzes will be graded generously, and 50% of the credit will be given simply for showing up and answering the questions.
 
-* Homeworks (35%)
-* Attendance + Quizzes (15%)
-* Midterm Exam (20%)
-* Final Exam (30%)
+| Homeworks		| 35% |
+| Attendance + Quizzes	| 15% |
+| Midterm Exam		| 20% |
+| Final Exam		| 30% |
+
+Quizzes will be entered electronically, via a web form, so make sure you have a phone, laptop, or tablet with you in class!  If you don’t have access to any of these, please let the instructor know.  The grading scheme will be:
+
+* 2 points for a correct answer
+* 1 point for an incorrect answer
+* 0 points for not taking the quiz
+
+Your **five lowest quiz scores will be dropped**, which should be enough to account for quizzes missed due to planned or unplanned absences.  
 
 ## Reading
 
@@ -35,7 +49,7 @@ Readings will be assigned for you to complete *before each lecture*.  All requir
 * Boyd & Vandengerbhe, *Convex Optimization* ([Free PDF](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf))
 * Trefethen & Bau, *Numerical Linear Algebra*
 
-## Assignments
+## Homework
 
 TODO
 
