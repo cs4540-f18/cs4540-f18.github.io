@@ -4,6 +4,8 @@
 **TAs:** Benjamin Bray and Naveen Kodali<br>
 **Location:** Tu/Th 3-4:15pm in Klaus 2443
 
+[Please fill out the COURSE SURVEY!](https://goo.gl/forms/LRJRu5DLhkLfmMCt1)
+
 This is an advanced course on algorithms. That is quite a broad topic, and in particular this semester’s course will focus heavily on **algorithms for machine learning**. We will be especially interested in diving into the following topics:
 
 * Numerical Analysis
