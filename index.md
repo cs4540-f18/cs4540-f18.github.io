@@ -41,14 +41,14 @@ TODO
 
 # Schedule
 
-(Tu 8/21/18) **Lecture #1**:  Introduction & Perceptron
+(Tu 8/21/18) **Lecture #1:  Introduction & Perceptron**
 
 * CMU 15-859(B), Lecture #4, [The Perceptron Algorithm](https://www.cs.cmu.edu/~avrim/ML10/lect0125.pdf) by Avrim Blum
 * Raul Rojas, Neural Networks:  A Systematic Introduction
   * [Ch 4:  Perceptron Learning](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
   * [Ch 5:  Unsupervised Learning and Clustering Algorithms](https://page.mi.fu-berlin.de/rojas/neural/chapter/K5.pdf)
   
-(Th 8/23/18) **Lecture #2**:  Review of Linear Algebra & Intro to Numpy
+(Th 8/23/18) **Lecture #2:  Review of Linear Algebra & Intro to Numpy**
 
 Required Reading (before class!)
 * [Notebook]  CS 4540:  Python Basics
@@ -56,7 +56,7 @@ Additional Resources
 * MIT OCW 18.06 Linear Algebra Lecture Videos
 
 	
-(Tu 8/28/18) **Lecture #3**:  Review of Calculus & Intro to Optimization
+(Tu 8/28/18) **Lecture #3:  Review of Calculus & Intro to Optimization**
 
 Required Reading
 * Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
@@ -68,7 +68,7 @@ Additional Resources
 * Stanford EE364a, Lecture #2:  Convex Sets ([Slides](http://web.stanford.edu/class/ee364a/lectures/sets.pdf), [Video](https://www.youtube.com/watch?v=P3W_wFZ2kUo))
 * Stanford EE364a, Lecture #3:  Convex Functions ([Slides](http://web.stanford.edu/class/ee364a/lectures/functions.pdf), [Video](https://www.youtube.com/watch?v=kcOodzDGV4c))
 
-(Th 8/30/18) **Lecture #4**:  Convexity & Optimization
+(Th 8/30/18) **Lecture #4:  Convexity & Optimization**
 
 Required Reading
 * Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
@@ -79,7 +79,7 @@ Additional Resources
 	* §2.3 Operations that Preserve Convex Sets
 	* §3.2 Operations that Preserve Convex Functions
 
-(Tu 9/4/18) **Lecture #5**:  Linear Programming
+(Tu 9/4/18) **Lecture #5:  Linear Programming**
 
 * Stanford CS261 Lecture Notes by Tim Roughgarden
   * [Lecture 7: Linear Programming: Introduction and Applications](http://theory.stanford.edu/~tim/w16/l/l7.pdf)
