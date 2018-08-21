@@ -30,7 +30,7 @@ The course grades will be determined as follows.  Note that the in-class quizzes
 
 ## Reading
 
-All required readings will either be linked to here or posted on Canvas as a PDF.  There is no required textbook for this course, but you may find the following books helpful:
+Readings will be assigned for you to complete *before each lecture*.  All required reading will either be linked to here or posted to canvas.  You are not required to purchase a textbook for this course, but you may find the following books helpful.
 
 * Boyd & Vandengerbhe, *Convex Optimization* ([Free PDF](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf))
 * Trefethen & Bau, *Numerical Linear Algebra*
