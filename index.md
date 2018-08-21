@@ -61,6 +61,9 @@ Coming soon!
 
 (Tu 8/21/18) **Lecture #1:  Introduction & Perceptron**
 
+No Required Reading
+
+Additional Resources
 * CMU 15-859(B), Lecture #4, [The Perceptron Algorithm](https://www.cs.cmu.edu/~avrim/ML10/lect0125.pdf) by Avrim Blum
 * Raul Rojas, Neural Networks:  A Systematic Introduction
   * [Ch 4:  Perceptron Learning](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
