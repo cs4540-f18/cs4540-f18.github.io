@@ -79,6 +79,7 @@ Additional Resources
 * Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 	* §2.3 Operations that Preserve Convex Sets
 	* §3.2 Operations that Preserve Convex Functions
+* Jeffe, UIUC Computational Geometry, ["Lecture 1:  Convex Hulls"](http://jeffe.cs.illinois.edu/teaching/compgeom/notes/01-convexhull.pdf)
 
 (Tu 9/4/18) **Lecture #5:  Linear Programming**
 
