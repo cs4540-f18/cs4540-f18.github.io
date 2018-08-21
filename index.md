@@ -51,7 +51,7 @@ TODO
 (Th 8/23/18) **Lecture #2:  Review of Linear Algebra & Intro to Numpy**
 
 Required Reading (before class!)
-* [Notebook]  CS 4540:  Python Basics
+* Notes, [CS 4540:  Python Basics](https://cs4540-f18.github.io/notes/python-basics)
 Additional Resources
 * MIT OCW 18.06 Linear Algebra Lecture Videos
 
