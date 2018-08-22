@@ -84,6 +84,8 @@ Required Reading (before class!)
 * Brush up on linear algebra!
 
 Additional Resources
+* 3blue1brown, [Essence of Linear Algebra](http://www.3blue1brown.com/essence-of-linear-algebra-page/) video series
+* [UNSW 2501: Linear Algebra](https://gatech.instructure.com/courses/22666/files/folder/unsw-math2501_linear-algebra-notes) Notes on Canvas
 * MIT OCW 18.06 Linear Algebra Lecture Videos
 
 	
