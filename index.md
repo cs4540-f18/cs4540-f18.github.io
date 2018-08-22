@@ -53,7 +53,15 @@ Readings will be assigned for you to complete *before each lecture*.  All requir
 * Boyd & Vandengerbhe, *Convex Optimization* ([Free PDF](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf))
 * Trefethen & Bau, *Numerical Linear Algebra*
 
-## Homework
+## Important Dates
+
+* *(Monday 10/8 &ndash; Tuesday 10/9)*  Fall recess, no class 
+* *(Tuesday, 10/16)* **In-class Midterm** (tentative)
+* *(Wednesday, 11/21 &ndash; Sun, November 25)* Thanksgiving Holiday
+* *(Tuesday, 12/4)* Last day of class
+* *(Thursday, 12/6)* **Final Exam** from 2:40-5:30PM
+
+# Homework
 
 Coming soon!
 
