@@ -107,12 +107,20 @@ No Required Reading
 (Th 8/30/18) **Lecture #4:  Review of Multivariable Calculus**
 
 *Required Preparation before Class*
-* Brush up on multivariable calculus!
+* Brush up on single and multivariable calculus!
+	* Sequences, series, and limits
+	* Chain rule, product rule, quotient rule
+	* Mean value theorem, intermediate value theorem
+	* Taylor series
 
 *Additional Resources*
 * Randal J. Barnes, ["Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
 * Parr & Howard 2018, ["The Matrix Calculus You Need for Deep Learning"](https://arxiv.org/abs/1802.01528)
 * Petersen & Pedersen 2012, ["The Matrix Cookbook"](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+* 3blue1brown YouTube Channel
+	* Essence of Calculus #4, ["Visualizing the chain rule and product rule"](https://www.youtube.com/watch?v=YG15m2VwSjA)
+	* Essence of Calculus #6, ["Implicit Differentiation, what's going on here?"](https://www.youtube.com/watch?v=qb40J4N1fa4)
+	* ["What they won't teach you in Calculus"](https://www.youtube.com/watch?v=CfW845LNObM&t=241s)
 
 ### Tentative Schedule (*read ahead at your own risk!*)
 
