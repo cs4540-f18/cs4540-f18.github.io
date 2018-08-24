@@ -109,7 +109,7 @@ No Required Reading
 * Brush up on calculus!
 
 *Additional Resources*
-* Randal J. Barnes, ("Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
+* Randal J. Barnes, ["Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
 * Parr & Howard 2018, ["The Matrix Calculus You Need for Deep Learning"](https://arxiv.org/abs/1802.01528)
 * Petersen & Pedersen 2012, ["The Matrix Cookbook"](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
