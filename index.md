@@ -113,7 +113,7 @@ No Required Reading
 * Parr & Howard 2018, ["The Matrix Calculus You Need for Deep Learning"](https://arxiv.org/abs/1802.01528)
 * Petersen & Pedersen 2012, ["The Matrix Cookbook"](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
-### Tentative Schedule
+### Tentative Schedule (Read ahead at your own risk!)
 
 (Tu 9/4/18) **Lecture #5:  Review of Calculus & Intro to Optimization**
 
