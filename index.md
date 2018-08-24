@@ -71,7 +71,7 @@ Coming soon!
 
 No Required Reading
 
-Additional Resources
+*Additional Resources*
 * CMU 15-859(B), Lecture #4, [The Perceptron Algorithm](https://www.cs.cmu.edu/~avrim/ML10/lect0125.pdf) by Avrim Blum
 * Raul Rojas, Neural Networks:  A Systematic Introduction
   * [Ch 4:  Perceptron Learning](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
@@ -79,46 +79,66 @@ Additional Resources
   
 (Th 8/23/18) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/notes/cs4540-f18-lecture2_linear-algebra.ipynb))
 
-Required Reading (before class!)
+*Required Preparation before Class*
+
 * Notes, [CS 4540:  Python Basics](https://cs4540-f18.github.io/notes/python-basics)
 * Brush up on linear algebra!
 
-Additional Resources
+*Additional Resources*
 * 3blue1brown, [Essence of Linear Algebra](http://www.3blue1brown.com/essence-of-linear-algebra-page/) video series
 * [UNSW 2501: Linear Algebra](https://gatech.instructure.com/courses/22666/files/folder/unsw-math2501_linear-algebra-notes) Notes on Canvas
 * MIT OCW 18.06 Linear Algebra Lecture Videos
 
 	
-(Tu 8/28/18) **Lecture #3:  Review of Calculus & Intro to Optimization**
+(Tu 8/28/18) **Lecture #3:  Convex Geometry**
 
-Required Reading
-* Brush up on calculus!
-* Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+*Required Preparation before Class*
+
+* Read Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 	* §2.1 Affine and Convex Sets
 	* §2.2 Important Examples (of Affine and Convex Sets)
-	* §3.1 Basic Properties and Examples (of Convex Functions)
+	* §2.5 Separating & Supporting Hyperplanes
 
-Additional Resources
+*Additional Resources*
+
 * Stanford EE364a, Lecture #2:  Convex Sets ([Slides](http://web.stanford.edu/class/ee364a/lectures/sets.pdf), [Video](https://www.youtube.com/watch?v=P3W_wFZ2kUo))
+
+(Th 8/30/18) **Lecture #4:  Review of Multivariable Calculus**
+
+*Required Preparation before Class*
+* Brush up on calculus!
+
+*Additional Resources*
+* Randal J. Barnes, ("Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
+* Parr & Howard 2018, ["The Matrix Calculus You Need for Deep Learning"](https://arxiv.org/abs/1802.01528)
+* Petersen & Pedersen 2012, ["The Matrix Cookbook"](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+> The schedule below this line is tentative and may change!  Read ahead at your own risk!
+
+<div style="background-color: #eee; color: #999">
+(Tu 9/4/18) **Lecture #5:  Review of Calculus & Intro to Optimization**
+
+*Required Preparation before Class*
+ 
+* Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+	* §3.1 Basic Properties & Examples of Convex Sets
+		* Skip §3.1.2 Extended-Value Extensions
+	* §3.2 Operations that Preserve Convex Functions
+
+*Additional Resources*
+
 * Stanford EE364a, Lecture #3:  Convex Functions ([Slides](http://web.stanford.edu/class/ee364a/lectures/functions.pdf), [Video](https://www.youtube.com/watch?v=kcOodzDGV4c))
-
-(Th 8/30/18) **Lecture #4:  Convexity & Optimization**
-
-Required Reading
-
-* Reading for 8/30/18 will be posted by Friday 8/24/18.
-
-Additional Resources
 * Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 	* §2.3 Operations that Preserve Convex Sets
 	* §3.2 Operations that Preserve Convex Functions
 	* §2.5 Separating & Supporting Hyperplanes
 * Jeffe, UIUC Computational Geometry, ["Lecture 1:  Convex Hulls"](http://jeffe.cs.illinois.edu/teaching/compgeom/notes/01-convexhull.pdf)
 
-(Tu 9/4/18) **Lecture #5:  Linear Programming**
+(Th 9/6/18) **Lecture #6:  Linear Programming**
 
 Required Reading
 * Stanford CS261 Lecture Notes by Tim Roughgarden
   * [Lecture 7: Linear Programming: Introduction and Applications](http://theory.stanford.edu/~tim/w16/l/l7.pdf)
   * [Lecture 8: Linear Programming Duality (Part 1)](http://theory.stanford.edu/~tim/w16/l/l8.pdf)
   * [Lecture 9: Linear Programming Duality (Part 2)](http://theory.stanford.edu/~tim/w16/l/l9.pdf)
+</div>
