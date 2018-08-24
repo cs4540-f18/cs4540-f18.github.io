@@ -77,7 +77,7 @@ Additional Resources
   * [Ch 4:  Perceptron Learning](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
   * [Ch 5:  Unsupervised Learning and Clustering Algorithms](https://page.mi.fu-berlin.de/rojas/neural/chapter/K5.pdf)
   
-(Th 8/23/18) **Lecture #2:  Review of Linear Algebra & Intro to Numpy**
+(Th 8/23/18) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/notes/cs4540-f18-lecture2_linear-algebra.ipynb))
 
 Required Reading (before class!)
 * Notes, [CS 4540:  Python Basics](https://cs4540-f18.github.io/notes/python-basics)
