@@ -102,6 +102,7 @@ No Required Reading
 *Additional Resources*
 
 * Stanford EE364a, Lecture #2:  Convex Sets ([Slides](http://web.stanford.edu/class/ee364a/lectures/sets.pdf), [Video](https://www.youtube.com/watch?v=P3W_wFZ2kUo))
+* Jeffe, UIUC Computational Geometry, ["Lecture 1:  Convex Hulls"](http://jeffe.cs.illinois.edu/teaching/compgeom/notes/01-convexhull.pdf)
 
 (Th 8/30/18) **Lecture #4:  Review of Multivariable Calculus**
 
@@ -113,16 +114,15 @@ No Required Reading
 * Parr & Howard 2018, ["The Matrix Calculus You Need for Deep Learning"](https://arxiv.org/abs/1802.01528)
 * Petersen & Pedersen 2012, ["The Matrix Cookbook"](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
-### Tentative Schedule (Read ahead at your own risk!)
+### Tentative Schedule (*read ahead at your own risk!*)
 
-(Tu 9/4/18) **Lecture #5:  Review of Calculus & Intro to Optimization**
+(Tu 9/4/18) **Lecture #5:  Convex Functions & Intro to Optimization**
 
 *Required Preparation before Class*
  
 * Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-	* §3.1 Basic Properties & Examples of Convex Sets
+	* §3.1 Basic Properties & Examples of Convex Functions
 		* Skip §3.1.2 Extended-Value Extensions
-	* §3.2 Operations that Preserve Convex Functions
 
 *Additional Resources*
 
@@ -131,7 +131,6 @@ No Required Reading
 	* §2.3 Operations that Preserve Convex Sets
 	* §3.2 Operations that Preserve Convex Functions
 	* §2.5 Separating & Supporting Hyperplanes
-* Jeffe, UIUC Computational Geometry, ["Lecture 1:  Convex Hulls"](http://jeffe.cs.illinois.edu/teaching/compgeom/notes/01-convexhull.pdf)
 
 (Th 9/6/18) **Lecture #6:  Linear Programming**
 
