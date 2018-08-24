@@ -107,7 +107,7 @@ No Required Reading
 (Th 8/30/18) **Lecture #4:  Review of Multivariable Calculus**
 
 *Required Preparation before Class*
-* Brush up on calculus!
+* Brush up on multivariable calculus!
 
 *Additional Resources*
 * Randal J. Barnes, ["Matrix Differentiation"](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
