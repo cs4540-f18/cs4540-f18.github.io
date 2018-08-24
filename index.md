@@ -113,9 +113,8 @@ No Required Reading
 * Parr & Howard 2018, ["The Matrix Calculus You Need for Deep Learning"](https://arxiv.org/abs/1802.01528)
 * Petersen & Pedersen 2012, ["The Matrix Cookbook"](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
-> The schedule below this line is tentative and may change!  Read ahead at your own risk!
+### Tentative Schedule
 
-<div style="background-color: #eee; color: #999">
 (Tu 9/4/18) **Lecture #5:  Review of Calculus & Intro to Optimization**
 
 *Required Preparation before Class*
@@ -141,4 +140,3 @@ Required Reading
   * [Lecture 7: Linear Programming: Introduction and Applications](http://theory.stanford.edu/~tim/w16/l/l7.pdf)
   * [Lecture 8: Linear Programming Duality (Part 1)](http://theory.stanford.edu/~tim/w16/l/l8.pdf)
   * [Lecture 9: Linear Programming Duality (Part 2)](http://theory.stanford.edu/~tim/w16/l/l9.pdf)
-</div>
