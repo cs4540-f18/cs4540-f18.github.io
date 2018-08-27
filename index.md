@@ -10,7 +10,7 @@
 **Teaching Assistants:** 
 - Benjamin Bray
     + Email: benrbray_at_gatech_dot_edu
-    + Office Hours: Fridays, 12:10-1:10pm (tables between Klaus 2116 and 2124)
+    + Office Hours: Fridays, 12:30-1:30pm (tables between Klaus 2116 and 2124)
 - Naveen Kodali
     + Email: nkodali3_at_gatech_dot_edu
     + Office Hours: TBD
