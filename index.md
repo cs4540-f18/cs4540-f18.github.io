@@ -152,10 +152,17 @@ No Required Reading
 	* §3.2 Operations that Preserve Convex Functions
 	* §2.5 Separating & Supporting Hyperplanes
 
-(Th 9/6/18) **Lecture #6:  Linear Programming**
+(Th 9/6/18) **Lecture #6:  Linear Programming Introduction**
 
 Required Reading
-* Stanford CS261 Lecture Notes by Tim Roughgarden
-  * [Lecture 7: Linear Programming: Introduction and Applications](http://theory.stanford.edu/~tim/w16/l/l7.pdf)
-  * [Lecture 8: Linear Programming Duality (Part 1)](http://theory.stanford.edu/~tim/w16/l/l8.pdf)
-  * [Lecture 9: Linear Programming Duality (Part 2)](http://theory.stanford.edu/~tim/w16/l/l9.pdf)
+* Tim Roughgarden, Stanford CS261, [Lecture 7: Linear Programming Introduction](http://theory.stanford.edu/~tim/w16/l/l7.pdf) (Pages 1-5)
+  
+(Tu 9/11/18) **Lecture #7:  Linear Programming Duality**
+
+Required Reading
+* Tim Roughgarden, Stanford CS261, [Lecture 8: Linear Programming Duality (Part 1)](http://theory.stanford.edu/~tim/w16/l/l8.pdf) (Pages 1-6)
+
+Additional Resources
+  * Tim Roughgarden, Stanford CS261, [Lecture 9: Linear Programming Duality (Part 2)](http://theory.stanford.edu/~tim/w16/l/l9.pdf)
+  
+
