@@ -1,17 +1,19 @@
 # Course Info
 
+**Lecture Location:** Tu/Th 3-4:15pm in Klaus 2443
+
 **Professor:** 
 - Jacob Abernethy
     + Email: prof_at_gatech_dot_edu
     + Office Hours: Monday, 11am-12pm
-**TAs:** 
+    
+**Teaching Assistants:** 
 - Benjamin Bray
     + Email: benrbray_at_gatech_dot_edu
-    + Office Hours: TBD
+    + Office Hours: Fridays, 12:10-1:10pm (tables between Klaus 2116 and 2124)
 - Naveen Kodali
     + Email: nkodali3_at_gatech_dot_edu
     + Office Hours: TBD
-**Location:** Tu/Th 3-4:15pm in Klaus 2443
 
 [Please fill out the COURSE SURVEY!](https://goo.gl/forms/LRJRu5DLhkLfmMCt1)
 
