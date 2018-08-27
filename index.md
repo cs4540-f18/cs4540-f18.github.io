@@ -1,7 +1,16 @@
 # Course Info
 
-**Professor:** Jacob Abernethy<br>
-**TAs:** Benjamin Bray and Naveen Kodali<br>
+**Professor:** 
+- Jacob Abernethy
+    + Email: prof_at_gatech_dot_edu
+    + Office Hours: Monday, 11am-12pm
+**TAs:** 
+- Benjamin Bray
+    + Email: benrbray_at_gatech_dot_edu
+    + Office Hours: TBD
+- Naveen Kodali
+    + Email: nkodali3_at_gatech_dot_edu
+    + Office Hours: TBD
 **Location:** Tu/Th 3-4:15pm in Klaus 2443
 
 [Please fill out the COURSE SURVEY!](https://goo.gl/forms/LRJRu5DLhkLfmMCt1)
