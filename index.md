@@ -13,7 +13,7 @@
     + Office Hours: Fridays, 12:30-1:30pm (tables between Klaus 2116 and 2124)
 - Naveen Kodali
     + Email: nkodali3_at_gatech_dot_edu
-    + Office Hours: TBD
+    + Office Hours: Wednesdays, 3:00-4:00pm (starting from Sep 5, tables between Klaus 2116 and 2124)
 
 [Please fill out the COURSE SURVEY!](https://goo.gl/forms/LRJRu5DLhkLfmMCt1)
 
