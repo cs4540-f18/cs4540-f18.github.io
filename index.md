@@ -105,7 +105,7 @@ No Required Reading
 * MIT OCW 18.06 Linear Algebra Lecture Videos
 
 	
-(Tu 8/28/18) **Lecture #3:  Convex Geometry** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture2_linear-algebra.ipynb))
+(Tu 8/28/18) **Lecture #3:  Convex Geometry** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture2_linear-algebra.ipynb)) ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture3_convex_sets.ipynb))
 
 *Required Preparation before Class*
 
