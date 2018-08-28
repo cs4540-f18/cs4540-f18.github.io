@@ -5,7 +5,7 @@
 **Professor:** 
 - Jacob Abernethy
     + Email: prof_at_gatech_dot_edu
-    + Office Hours: Monday, 11am-12pm
+    + Office Hours: Monday, 11am-12pm (Klaus 2134)
     
 **Teaching Assistants:** 
 - Benjamin Bray
