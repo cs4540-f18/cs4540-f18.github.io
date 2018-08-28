@@ -114,6 +114,7 @@ No Required Reading
 
 * Stanford EE364a, Lecture #2:  Convex Sets ([Slides](http://web.stanford.edu/class/ee364a/lectures/sets.pdf), [Video](https://www.youtube.com/watch?v=P3W_wFZ2kUo))
 * Jeffe, UIUC Computational Geometry, ["Lecture 1:  Convex Hulls"](http://jeffe.cs.illinois.edu/teaching/compgeom/notes/01-convexhull.pdf)
+* Lauritzen, *Lectures on Convex Sets*, [Ch 3: Separation](https://www.fmf.uni-lj.si/~lavric/lauritzen.pdf) (nice proof of Farkas lemma)
 * ETH Zürich, Approximate Methods in Geometry, ["Chapter 1:  Some Basic Geometry"](https://www.ti.inf.ethz.ch/ew/lehre/ApproxGeom08/notes/01_Basic_Geometry.pdf)
 * David L. Finn, Rose-Hullman MA 323, ["Barycentric Coordinates & de Casteljau's Algorithm"](https://www.rose-hulman.edu/~finn/CCLI/Notes/day11.pdf)
 
