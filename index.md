@@ -140,8 +140,6 @@ No Required Reading
 	* Essence of Calculus #6, ["Implicit Differentiation, what's going on here?"](https://www.youtube.com/watch?v=qb40J4N1fa4)
 	* ["What they won't teach you in Calculus"](https://www.youtube.com/watch?v=CfW845LNObM&t=241s)
 
-### Tentative Schedule (*read ahead at your own risk!*)
-
 (Tu 9/4/18) **Lecture #5:  Convex Functions & Intro to Optimization**
 
 *Required Preparation before Class*
@@ -157,6 +155,8 @@ No Required Reading
 	* §2.3 Operations that Preserve Convex Sets
 	* §3.2 Operations that Preserve Convex Functions
 	* §2.5 Separating & Supporting Hyperplanes
+
+### Tentative Schedule (*read ahead at your own risk!*)
 
 (Th 9/6/18) **Lecture #6:  Linear Programming Introduction**
 
