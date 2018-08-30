@@ -158,13 +158,14 @@ No Required Reading
 	* §3.2 Operations that Preserve Convex Functions
 	* §2.5 Separating & Supporting Hyperplanes
 
-### Tentative Schedule (*read ahead at your own risk!*)
-
 (Th 9/6/18) **Lecture #6:  Linear Programming Introduction**
 
 *Required Preparation before Class*
 * Tim Roughgarden, Stanford CS261, [Lecture 7: Linear Programming](http://theory.stanford.edu/~tim/w16/l/l7.pdf) (Pages 1-5)
-  
+	* Try to get used to the matrix notation for linear programs!  Think geometrically!
+
+### Tentative Schedule (*read ahead at your own risk!*)
+
 (Tu 9/11/18) **Lecture #7:  Linear Programming Duality**
 
 *Required Preparation before Class*
