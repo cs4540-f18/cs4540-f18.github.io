@@ -122,7 +122,9 @@ No Required Reading
 * ETH Zürich, Approximate Methods in Geometry, ["Chapter 1:  Some Basic Geometry"](https://www.ti.inf.ethz.ch/ew/lehre/ApproxGeom08/notes/01_Basic_Geometry.pdf)
 * David L. Finn, Rose-Hullman MA 323, ["Barycentric Coordinates & de Casteljau's Algorithm"](https://www.rose-hulman.edu/~finn/CCLI/Notes/day11.pdf)
 
-(Th 8/30/18) **Lecture #4:  Review of Multivariable Calculus**
+(Th 8/30/18) **Lecture #4:  Review of Multivariable Calculus** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture4_convexity_multivariable_calculus.ipynb))
+
+
 
 *Required Preparation before Class*
 * Brush up on single and multivariable calculus!
