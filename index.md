@@ -142,7 +142,7 @@ No Required Reading
 	* Essence of Calculus #6, ["Implicit Differentiation, what's going on here?"](https://www.youtube.com/watch?v=qb40J4N1fa4)
 	* ["What they won't teach you in Calculus"](https://www.youtube.com/watch?v=CfW845LNObM&t=241s)
 
-(Tu 9/4/18) **Lecture #5:  Convex Functions & Intro to Optimization**
+(Tu 9/4/18) **Lecture #5:  Convex Functions & Intro to Optimization** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture5_convex-functions.ipynb))
 
 *Required Preparation before Class*
  
