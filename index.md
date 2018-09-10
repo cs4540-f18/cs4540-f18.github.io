@@ -171,12 +171,19 @@ No Required Reading
 
 *Additional Resources*
 * Tim Roughgarden, Stanford CS261, [Lecture 9: Linear Programming Duality II](http://theory.stanford.edu/~tim/w16/l/l9.pdf)
+* Jim Burke, University of Washington MATH 407
+	* ["Section 1:  Linear Programming"](https://sites.math.washington.edu/~burke/crs/407/notes/section1.pdf)
+	* ["Section 2:  Simplex Algorithm"](https://sites.math.washington.edu/~burke/crs/407/notes/section2.pdf)
   
 ### Tentative Schedule (*read ahead at your own risk!*)
   
-(Th 9/13/18) **Lecture #8:  Gradient Descent**
+(Th 9/13/18) **Lecture #8:  Positive Definiteness and Gradient Descent Intro**
 
-*TBD*
+*Required Preparation before Class*
+* Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 1-17)
+	* *Note:* We (probably) won't cover Conjugate-Gradient, but these notes are a great intro to PSD matrices and gradient descent methods.
+
+*Additional Resources*
 
 
 (Tu 9/18/18) **Lecture #9:  Modifications of Gradient Descent** 
