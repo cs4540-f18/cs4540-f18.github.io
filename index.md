@@ -181,7 +181,8 @@ No Required Reading
 
 *Required Preparation before Class*
 * Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 1-17)
-	* *Note:* We (probably) won't cover Conjugate-Gradient, but these notes are a great intro to PSD matrices and gradient descent methods.
+	* We (probably) won't cover Conjugate-Gradient, but these notes are a great intro gradient descent.
+	* We'll cover the Jacobi method in more detail later, so don't worry too much about §5.2
 
 *Additional Resources*
 
