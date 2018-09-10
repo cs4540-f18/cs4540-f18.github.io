@@ -175,8 +175,6 @@ No Required Reading
 	* ["Section 1:  Linear Programming"](https://sites.math.washington.edu/~burke/crs/407/notes/section1.pdf)
 	* ["Section 2:  Simplex Algorithm"](https://sites.math.washington.edu/~burke/crs/407/notes/section2.pdf)
   
-### Tentative Schedule (*read ahead at your own risk!*)
-  
 (Th 9/13/18) **Lecture #8:  Positive Definiteness and Gradient Descent Intro**
 
 *Required Preparation before Class*
@@ -187,6 +185,9 @@ No Required Reading
 *Additional Resources*
 
 
-(Tu 9/18/18) **Lecture #9:  Modifications of Gradient Descent** 
+### Tentative Schedule (*read ahead at your own risk!*)
 
-*TBD*
+(Tu 9/18/18) **Lecture #9:  Gradient Descent for Convex Functions** 
+
+(Th 9/20/18) **Lecture #10:  Stochastic, Accelerated, and Conditional Gradient Descent** 
+
