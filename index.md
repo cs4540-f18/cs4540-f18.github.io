@@ -158,7 +158,7 @@ No Required Reading
 	* §3.2 Operations that Preserve Convex Functions
 	* §2.5 Separating & Supporting Hyperplanes
 
-(Th 9/6/18) **Lecture #6:  Linear Programming Introduction**
+(Th 9/6/18) **Lecture #6:  Linear Programming Introduction** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture6_linear-programming.ipynb))
 
 *Required Preparation before Class*
 * Tim Roughgarden, Stanford CS261, [Lecture 7: Linear Programming](http://theory.stanford.edu/~tim/w16/l/l7.pdf) (Pages 1-5)
@@ -175,5 +175,10 @@ No Required Reading
 ### Tentative Schedule (*read ahead at your own risk!*)
   
 (Th 9/13/18) **Lecture #8:  Gradient Descent**
+
+*TBD*
+
+
+(Tu 9/18/18) **Lecture #9:  Modifications of Gradient Descent** 
 
 *TBD*
