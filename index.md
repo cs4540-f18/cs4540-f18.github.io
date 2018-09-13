@@ -175,7 +175,7 @@ No Required Reading
 	* ["Section 1:  Linear Programming"](https://sites.math.washington.edu/~burke/crs/407/notes/section1.pdf)
 	* ["Section 2:  Simplex Algorithm"](https://sites.math.washington.edu/~burke/crs/407/notes/section2.pdf)
   
-(Th 9/13/18) **Lecture #8:  Positive Definiteness and Gradient Descent Intro**
+(Th 9/13/18) **Lecture #8:  Positive Definiteness and Gradient Descent Intro** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture8_duality_convexity_PSD.ipynb))
 
 *Required Preparation before Class*
 * Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 1-17)
