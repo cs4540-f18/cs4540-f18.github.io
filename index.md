@@ -204,6 +204,7 @@ No Required Reading
 	* Compare the structure of the convergence proof to that of gradient descent from Lecture 9
 
 *Additional Resources*
+* Fabian Pedrigosa, ["Notes on the Frank Wolfe Algorithm"](http://fa.bianp.net/blog/2018/notes-on-the-frank-wolfe-algorithm-part-i/)
 * Moritz Hardt, UC Berkeley EE227C, ["Lecture 5:  Conditional Gradient Method"](https://ee227c.github.io/notes/ee227c-lecture05.pdf)
 
 ### Tentative Schedule (*read ahead at your own risk!*)
