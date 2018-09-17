@@ -182,12 +182,32 @@ No Required Reading
 	* We (probably) won't cover Conjugate-Gradient, but these notes are a great intro gradient descent.
 	* We'll cover the Jacobi method in more detail later, so don't worry too much about §5.2
 
-*Additional Resources*
+(Tu 9/18/18) **Lecture #9:  Gradient Descent for Convex Functions** 
 
+*Required Preparation before Class*
+* Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 17-21)
+	* Proof of convergence for gradient descent on quadratic forms
+* Try to understand the definition of strong convexity in Boyd & Vandenberghe, ["Convex Optimization"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) §9.1.2
+
+*Additional Resources*
+* Moritz Hardt, UC Berkeley EE227C
+	* ["Lecture 2:  Gradient Descent (Non-smooth and smooth)"](https://ee227c.github.io/notes/ee227c-lecture02.pdf)
+	* ["Lecture 3:  Gradient Descent (Strongly convex)"](https://ee227c.github.io/notes/ee227c-lecture03.pdf)
+	* ["Lecture 4:  Applications of Gradient Descent"](https://ee227c.github.io/notes/ee227c-lecture04.pdf)
+* Elad Hazan, ["Introduction to Online Convex Optimization"](http://ocobook.cs.princeton.edu/OCObook.pdf), Chapters 2 & 3
+
+(Th 9/20/18) **Lecture #10:  Stochastic, Accelerated, and Conditional Gradient Descent**  
+
+*Required Preparation before Class*
+* Elad Hazan, ["Introduction to Online Convex Optimization"](http://ocobook.cs.princeton.edu/OCObook.pdf), §7.1-7.4
+	* Understand Frank Wolfe (a.k.a. conditional gradient) at a high-level
+	* Compare the structure of the convergence proof to that of gradient descent from Lecture 9
+
+*Additional Resources*
+* Moritz Hardt, UC Berkeley EE227C, ["Lecture 5:  Conditional Gradient Method"](https://ee227c.github.io/notes/ee227c-lecture05.pdf)
 
 ### Tentative Schedule (*read ahead at your own risk!*)
 
-(Tu 9/18/18) **Lecture #9:  Gradient Descent for Convex Functions** 
+(Tu 9/25/18) **Lecture #11:  Second-order Methods & Fixed Point Iteration** 
 
-(Th 9/20/18) **Lecture #10:  Stochastic, Accelerated, and Conditional Gradient Descent** 
-
+(Th 9/27/18) **Lecture #12:  Numerical Methods for Linear Systems** 
