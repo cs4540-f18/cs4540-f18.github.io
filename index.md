@@ -182,7 +182,7 @@ No Required Reading
 	* We (probably) won't cover Conjugate-Gradient, but these notes are a great intro gradient descent.
 	* We'll cover the Jacobi method in more detail later, so don't worry too much about §5.2
 
-(Tu 9/18/18) **Lecture #9:  Gradient Descent for Convex Functions** 
+(Tu 9/18/18) **Lecture #9:  Gradient Descent for Convex Functions** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture9_gradient-descent.ipynb))
 
 *Required Preparation before Class*
 * Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 17-21)
@@ -196,7 +196,7 @@ No Required Reading
 	* ["Lecture 4:  Applications of Gradient Descent"](https://ee227c.github.io/notes/ee227c-lecture04.pdf)
 * Elad Hazan, ["Introduction to Online Convex Optimization"](http://ocobook.cs.princeton.edu/OCObook.pdf), Chapters 2 & 3
 
-(Th 9/20/18) **Lecture #10:  Stochastic, Accelerated, and Conditional Gradient Descent**  
+(Th 9/20/18) **Lecture #10:  Stochastic, Accelerated, and Conditional Gradient Descent**  ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture10_gradient-descent-variants.ipynb))
 
 *Required Preparation before Class*
 * Elad Hazan, ["Introduction to Online Convex Optimization"](http://ocobook.cs.princeton.edu/OCObook.pdf), §7.1-7.4
