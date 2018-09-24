@@ -92,7 +92,7 @@ No Required Reading
   * [Ch 4:  Perceptron Learning](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
   * [Ch 5:  Unsupervised Learning and Clustering Algorithms](https://page.mi.fu-berlin.de/rojas/neural/chapter/K5.pdf)
   
-(Th 8/23/18) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture2_linear-algebra.ipynb))
+(Th 8/23/18) **Lecture #2:  Review of Linear Algebra & Intro to Numpy** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture02_linear-algebra.ipynb))
 
 *Required Preparation before Class*
 
@@ -105,7 +105,7 @@ No Required Reading
 * MIT OCW 18.06 Linear Algebra Lecture Videos
 
 	
-(Tu 8/28/18) **Lecture #3:  Convex Geometry** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture3_convex_sets.ipynb))
+(Tu 8/28/18) **Lecture #3:  Convex Geometry** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture03_convex_sets.ipynb))
 
 *Required Preparation before Class*
 
@@ -122,7 +122,7 @@ No Required Reading
 * ETH Zürich, Approximate Methods in Geometry, ["Chapter 1:  Some Basic Geometry"](https://www.ti.inf.ethz.ch/ew/lehre/ApproxGeom08/notes/01_Basic_Geometry.pdf)
 * David L. Finn, Rose-Hullman MA 323, ["Barycentric Coordinates & de Casteljau's Algorithm"](https://www.rose-hulman.edu/~finn/CCLI/Notes/day11.pdf)
 
-(Th 8/30/18) **Lecture #4:  Review of Multivariable Calculus** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture4_convexity_multivariable_calculus.ipynb))
+(Th 8/30/18) **Lecture #4:  Review of Multivariable Calculus** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture04_convexity_multivariable_calculus.ipynb))
 
 
 
@@ -142,7 +142,7 @@ No Required Reading
 	* Essence of Calculus #6, ["Implicit Differentiation, what's going on here?"](https://www.youtube.com/watch?v=qb40J4N1fa4)
 	* ["What they won't teach you in Calculus"](https://www.youtube.com/watch?v=CfW845LNObM&t=241s)
 
-(Tu 9/4/18) **Lecture #5:  Convex Functions & Intro to Optimization** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture5_convex-functions.ipynb))
+(Tu 9/4/18) **Lecture #5:  Convex Functions & Intro to Optimization** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture05_convex-functions.ipynb))
 
 *Required Preparation before Class*
  
@@ -158,13 +158,13 @@ No Required Reading
 	* §3.2 Operations that Preserve Convex Functions
 	* §2.5 Separating & Supporting Hyperplanes
 
-(Th 9/6/18) **Lecture #6:  Linear Programming Introduction** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture6_linear-programming.ipynb))
+(Th 9/6/18) **Lecture #6:  Linear Programming Introduction** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture06_linear-programming.ipynb))
 
 *Required Preparation before Class*
 * Tim Roughgarden, Stanford CS261, [Lecture 7: Linear Programming](http://theory.stanford.edu/~tim/w16/l/l7.pdf) (Pages 1-5)
 	* Try to get used to the matrix notation for linear programs!  Think geometrically!
 
-(Tu 9/11/18) **Lecture #7:  Linear Programming Duality**
+(Tu 9/11/18) **Lecture #7:  Linear Programming Duality** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture07_linear-programming-duality.ipynb))
 
 *Required Preparation before Class*
 * Tim Roughgarden, Stanford CS261, [Lecture 8: Linear Programming Duality I](http://theory.stanford.edu/~tim/w16/l/l8.pdf) (Pages 1-6)
@@ -175,14 +175,14 @@ No Required Reading
 	* ["Section 1:  Linear Programming"](https://sites.math.washington.edu/~burke/crs/407/notes/section1.pdf)
 	* ["Section 2:  Simplex Algorithm"](https://sites.math.washington.edu/~burke/crs/407/notes/section2.pdf)
   
-(Th 9/13/18) **Lecture #8:  Positive Definiteness and Gradient Descent Intro** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture8_duality_convexity_PSD.ipynb))
+(Th 9/13/18) **Lecture #8:  Positive Definiteness and Gradient Descent Intro** ([Lecture Slides](https://nbviewer.jupyter.org/github/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture08_duality_convexity_PSD.ipynb))
 
 *Required Preparation before Class*
 * Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 1-17)
 	* We (probably) won't cover Conjugate-Gradient, but these notes are a great intro gradient descent.
 	* We'll cover the Jacobi method in more detail later, so don't worry too much about §5.2
 
-(Tu 9/18/18) **Lecture #9:  Gradient Descent for Convex Functions** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture9_gradient-descent.ipynb))
+(Tu 9/18/18) **Lecture #9:  Gradient Descent for Convex Functions** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture09_gradient-descent.ipynb))
 
 *Required Preparation before Class*
 * Jonathan Shewchuk 1994, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) (Pages 17-21)
@@ -207,8 +207,45 @@ No Required Reading
 * Fabian Pedrigosa, ["Notes on the Frank Wolfe Algorithm"](http://fa.bianp.net/blog/2018/notes-on-the-frank-wolfe-algorithm-part-i/)
 * Moritz Hardt, UC Berkeley EE227C, ["Lecture 5:  Conditional Gradient Method"](https://ee227c.github.io/notes/ee227c-lecture05.pdf)
 
+(Tu 9/25/18) **Lecture #11:  Applications of Gradient Descent** 
+
+*Required Preparation before Class*
+* No new reading for today!  We'll talk about Frank-Wolfe, so remind yourself about the reading from L10.  
+
+(Th 9/27/18) **Lecture #12:  Second-order Methods & Fixed Point Iteration**
+
+*Required Preparation before Class*
+* Sauer, [*Numerical Analysis*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1371975) (posted to Canvas)
+	* §1.1 The Bisection Method (Pages 25-29)
+	* §1.2 Fixed Point Iteration (Pages 30-40)
+	* §1.4 Newton's Method (Pages 51-58)
+* Review the following topics from multivariable calculus:
+	* Multivariate Taylor's Theorem
+	* Mean / Intermediate Value Theorems
+	
+*Additional Resources*
+* Newton's Method
+	* Boyd & Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), §9.5 Newton's Method
+	* Chris Hauser, ["Multivariate Newton's Method and Quasi-Newton"](http://homes.sice.indiana.edu/classes/spring2012/csci/b553-hauserk/newtons_method.pdf)
+	* Wei-Ta Chu 2014, ["Multivariate Newton's Method"](https://www.cs.ccu.edu.tw/~wtchu/courses/2014s_OPT/Lectures/Chapter%209%20Newton%27s%20Method.pdf) (slides)
+	* Ryan Tibshirani 2015, ["Newton's Method"](http://www.stat.cmu.edu/~ryantibs/convexopt-F15/lectures/14-newton.pdf) (slides)
+	* Sean Harrington, ["Solving Logistic Regression with Newton's Method"](https://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method) (blog post; we'll cover logistic regression later)
+* Newton Fractals
+	* Simon Tatham, ["Fractals Derived from Newton-Raphson Iteration"](https://www.chiark.greenend.org.uk/~sgtatham/newton/)
+	* Daniel Dreibelbis, ["Newton Fractals"](https://www.unf.edu/~ddreibel/teaching/newton/index.html)
+	* Paul Bourke, ["An Introduction to Fractals"](http://paulbourke.net/fractals/fracintro/)
+* Nykamp DQ, *Math Insight*, ["Introduction to Taylor's Theorem for Multivariable Functions"](https://mathinsight.org/taylors_theorem_multivariable_introduction)
+* Sauer, *Numerical Analysis* §1.3 briefly covers of conditioning / sensitivity, but we won't focus on these topics in class.  For a slightly more advanced treatment, see Trefethen & Bau, *Numerical Linear Algebra* §13-14.
+
 ### Tentative Schedule (*read ahead at your own risk!*)
 
-(Tu 9/25/18) **Lecture #11:  Second-order Methods & Fixed Point Iteration** 
+(Tu 10/2/18) **Lecture #13:  Matrix Decompositions & SVD**
 
-(Th 9/27/18) **Lecture #12:  Numerical Methods for Linear Systems** 
+*Required Preparation before Class*
+* Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1372008) (posted to Canvas)
+	* Lecture 4:  The Singular Value Decomposition (Pages 25-31)
+	* Lecture 5:  More on the SVD (Pages 32-37)
+
+*Additional Resources*
+
+(Th 10/4/18) **Lecture #14:  Numerical Methods for Linear Systems**
