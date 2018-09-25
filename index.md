@@ -214,6 +214,8 @@ No Required Reading
 
 *Additional Resources*
 * Gabriel Goh, *Distill*, ["Why Momentum Really Works"](https://distill.pub/2017/momentum/)
+* Moritz Hardt, ["The Zen of Gradient Descent"](http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html)
+* Peter Absil, "Optimization on Matrix Manifolds" [slides](https://perso.uclouvain.be/pa.absil/Talks/IAP_Study_Day_070416_oom_03.pdf) (and [book](https://press.princeton.edu/titles/8586.html))
 
 (Th 9/27/18) **Lecture #12:  Second-order Methods & Fixed Point Iteration**
 
