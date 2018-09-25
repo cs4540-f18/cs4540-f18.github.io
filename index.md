@@ -210,7 +210,10 @@ No Required Reading
 (Tu 9/25/18) **Lecture #11:  Applications of Gradient Descent** 
 
 *Required Preparation before Class*
-* No new reading for today!  We'll talk about Frank-Wolfe, so remind yourself about the reading from L10.  
+* No new reading for today!  We'll talk about Frank-Wolfe, so remind yourself about the reading from L10.
+
+*Additional Resources*
+* Gabriel Goh, *Distill*, ["Why Momentum Really Works"](https://distill.pub/2017/momentum/)
 
 (Th 9/27/18) **Lecture #12:  Second-order Methods & Fixed Point Iteration**
 
