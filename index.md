@@ -207,7 +207,7 @@ No Required Reading
 * Fabian Pedrigosa, ["Notes on the Frank Wolfe Algorithm"](http://fa.bianp.net/blog/2018/notes-on-the-frank-wolfe-algorithm-part-i/)
 * Moritz Hardt, UC Berkeley EE227C, ["Lecture 5:  Conditional Gradient Method"](https://ee227c.github.io/notes/ee227c-lecture05.pdf)
 
-(Tu 9/25/18) **Lecture #11:  Applications of Gradient Descent** 
+(Tu 9/25/18) **Lecture #11:  Applications of Gradient Descent** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture11_gradient-descent-applications.ipynb))
 
 *Required Preparation before Class*
 * No new reading for today!  We'll talk about Frank-Wolfe, so remind yourself about the reading from L10.
@@ -217,7 +217,7 @@ No Required Reading
 * Moritz Hardt, ["The Zen of Gradient Descent"](http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html)
 * Peter Absil, "Optimization on Matrix Manifolds" [slides](https://perso.uclouvain.be/pa.absil/Talks/IAP_Study_Day_070416_oom_03.pdf) (and [book](https://press.princeton.edu/titles/8586.html))
 
-(Th 9/27/18) **Lecture #12:  Second-order Methods & Fixed Point Iteration**
+(Th 9/27/18) **Lecture #12:  Second-order Methods & Fixed Point Iteration** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture12_fixed-points-newton.ipynb))
 
 *Required Preparation before Class*
 * Sauer, [*Numerical Analysis*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1371975) (posted to Canvas)
@@ -239,7 +239,7 @@ No Required Reading
 	* Simon Tatham, ["Fractals Derived from Newton-Raphson Iteration"](https://www.chiark.greenend.org.uk/~sgtatham/newton/)
 	* Daniel Dreibelbis, ["Newton Fractals"](https://www.unf.edu/~ddreibel/teaching/newton/index.html)
 	* Paul Bourke, ["An Introduction to Fractals"](http://paulbourke.net/fractals/fracintro/)
-* Geoffrey Hinton, Coursera NNML, ("A Brief Overview of Hessian-Free Optimization"](https://www.youtube.com/watch?v=iJ67SnPHEnU)
+* Geoffrey Hinton, Coursera NNML, ["A Brief Overview of Hessian-Free Optimization"](https://www.youtube.com/watch?v=iJ67SnPHEnU)
 * Nykamp DQ, *Math Insight*, ["Introduction to Taylor's Theorem for Multivariable Functions"](https://mathinsight.org/taylors_theorem_multivariable_introduction)
 * Sauer, *Numerical Analysis* §1.3 briefly covers of conditioning / sensitivity, but we won't focus on these topics in class.  For a slightly more advanced treatment, see Trefethen & Bau, *Numerical Linear Algebra* §13-14.
 
