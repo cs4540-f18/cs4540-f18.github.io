@@ -243,8 +243,6 @@ No Required Reading
 * Nykamp DQ, *Math Insight*, ["Introduction to Taylor's Theorem for Multivariable Functions"](https://mathinsight.org/taylors_theorem_multivariable_introduction)
 * Sauer, *Numerical Analysis* §1.3 briefly covers of conditioning / sensitivity, but we won't focus on these topics in class.  For a slightly more advanced treatment, see Trefethen & Bau, *Numerical Linear Algebra* §13-14.
 
-### Tentative Schedule (*read ahead at your own risk!*)
-
 (Tu 10/2/18) **Lecture #13:  Matrix Decompositions & SVD**
 
 *Required Preparation before Class*
@@ -255,3 +253,28 @@ No Required Reading
 *Additional Resources*
 
 (Th 10/4/18) **Lecture #14:  Numerical Methods for Linear Systems**
+
+*Required Preparation before Class*
+* Understand §5.1-5.3 of Shewchuk, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+* Understand the [Gershgorin Circle Theorem](https://en.wikipedia.org/wiki/Gershgorin_circle_theorem) (Wikipedia's proof isn't too bad!)
+
+*Additional Resources*
+* Golub & van Loan, *Matrix Computations*, ["§11.2:  The Classical Iterations"](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485926) (posted to Canvas)
+* Volker John, ["Ch 3:  Classical Iterative Schemes"](https://www.wias-berlin.de/people/john/LEHRE/NUMERIK_II/linsys_3.pdf)
+* Schonlieb, "Numerical Analysis" Lectures [16](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c16.pdf), [17](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c17.pdf), [18](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c18.pdf)
+* Gilbert Strang, *Mathematical Methods for Engineers*, [§6.2:  Iterative Methods](https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/readings/am62.pdf)
+
+(Th 10/11/18) **Lecture #15:  Numerical Methods for Computing Eigenvalues**
+
+*Required Preparation before Class*
+* Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485844) (posted to Canvas)
+	* Lecture 27:  Rayleigh Quotient, Inverse Iteration (Pages 202-210)
+	
+*Additional Resources*
+* Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485844) (posted to Canvas)
+	* Lecture 25:  Overview of Eigenvalue Algorithms (read if you want some more context about computing eigenvalues) 
+	* Lecture 28:  QR Algorithm without Shifts (we won't cover this, but the algorithm is interesting!)
+	
+### Tentative Schedule (*read ahead at your own risk!*)
+
+(Tu 10/16/18) **Lecture #16:  ???
