@@ -274,7 +274,19 @@ No Required Reading
 * Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485844) (posted to Canvas)
 	* Lecture 25:  Overview of Eigenvalue Algorithms (read if you want some more context about computing eigenvalues) 
 	* Lecture 28:  QR Algorithm without Shifts (we won't cover this, but the algorithm is interesting!)
+
+(Tu 10/16/18) **Lecture #16:  Random Variables and Maximum Likelihood Estimation** 
+
+*Required Preparation before Class*
+* Maleki and Do, Stanford Lecture Notes, [*Review of Probability Theory*](http://cs229.stanford.edu/section/cs229-prob.pdf)
+	* Brush up on your probability theory, and make sure you understand the distributions *Binomial, Bernoulli, Poisson, Exponential, and Gaussian*
+
+* Zheng, Missouri State Lecture Notes, [*Maximum Likelihood Estimation*](http://people.missouristate.edu/songfengzheng/Teaching/MTH541/Lecture%20notes/MLE.pdf)
+	* Read through pages 1-7
+
+	
+
 	
 ### Tentative Schedule (*read ahead at your own risk!*)
 
-(Tu 10/16/18) **Lecture #16:  ???
+(Th 10/25/18) **Lecture #17:  ???
