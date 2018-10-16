@@ -243,7 +243,7 @@ No Required Reading
 * Nykamp DQ, *Math Insight*, ["Introduction to Taylor's Theorem for Multivariable Functions"](https://mathinsight.org/taylors_theorem_multivariable_introduction)
 * Sauer, *Numerical Analysis* §1.3 briefly covers of conditioning / sensitivity, but we won't focus on these topics in class.  For a slightly more advanced treatment, see Trefethen & Bau, *Numerical Linear Algebra* §13-14.
 
-(Tu 10/2/18) **Lecture #13:  Matrix Decompositions & SVD**
+(Tu 10/2/18) **Lecture #13:  Matrix Decompositions & SVD** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture13_matrix-decompositions.ipynb))
 
 *Required Preparation before Class*
 * Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1372008) (posted to Canvas)
@@ -252,7 +252,7 @@ No Required Reading
 
 *Additional Resources*
 
-(Th 10/4/18) **Lecture #14:  Numerical Methods for Linear Systems**
+(Th 10/4/18) **Lecture #14:  Numerical Methods for Linear Systems** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture14_linear-systems.ipynb))
 
 *Required Preparation before Class*
 * Understand §5.1-5.3 of Shewchuk, ["Painless Conjugate Gradient"](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
@@ -264,7 +264,7 @@ No Required Reading
 * Schonlieb, "Numerical Analysis" Lectures [16](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c16.pdf), [17](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c17.pdf), [18](http://www.damtp.cam.ac.uk/user/cbs31/Teaching_files/c18.pdf)
 * Gilbert Strang, *Mathematical Methods for Engineers*, [§6.2:  Iterative Methods](https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/readings/am62.pdf)
 
-(Th 10/11/18) **Lecture #15:  Numerical Methods for Computing Eigenvalues**
+(Th 10/11/18) **Lecture #15:  Numerical Methods for Computing Eigenvalues** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture15_eigenvalues-eigenvectors.ipynb))
 
 *Required Preparation before Class*
 * Trefethen & Bau, [*Numerical Linear Algebra*](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1485844) (posted to Canvas)
@@ -275,7 +275,7 @@ No Required Reading
 	* Lecture 25:  Overview of Eigenvalue Algorithms (read if you want some more context about computing eigenvalues) 
 	* Lecture 28:  QR Algorithm without Shifts (we won't cover this, but the algorithm is interesting!)
 
-(Tu 10/16/18) **Lecture #16:  Random Variables and Maximum Likelihood Estimation** 
+(Tu 10/16/18) **Lecture #16:  Random Variables and Maximum Likelihood Estimation** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture16_random_variables_maximum_likelihood.ipynb))
 
 *Required Preparation before Class*
 * Maleki and Do, Stanford Lecture Notes, [*Review of Probability Theory*](http://cs229.stanford.edu/section/cs229-prob.pdf)
