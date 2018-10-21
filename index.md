@@ -284,9 +284,14 @@ No Required Reading
 * Zheng, Missouri State Lecture Notes, [*Maximum Likelihood Estimation*](http://people.missouristate.edu/songfengzheng/Teaching/MTH541/Lecture%20notes/MLE.pdf)
 	* Read through pages 1-7
 
-	
+(Th 10/25/18) **Lecture #17:  Bayes Rule and Naive Bayes Algorithm** ([Lecture Slides](TBD)
 
+*Required Preparation before Class*
+* Kevin Murphy, Machine Learning (A Probabilistic Perspective) book. If you can't find the book online or library, let us know on piazza.
+	* Read through chapters 2.2.3, 2.3.1, 2.3.2, 3.2, 3.5
+
+(Tu 10/30/18) **Lecture is cancelled**
 	
 ### Tentative Schedule (*read ahead at your own risk!*)
 
-(Th 10/25/18) **Lecture #17:  ???
+(Th 11/1/18) **Lecture #18:  ???
