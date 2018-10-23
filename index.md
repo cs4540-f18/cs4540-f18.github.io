@@ -288,7 +288,11 @@ No Required Reading
 
 *Required Preparation before Class*
 * Kevin Murphy, ["Machine Learning:  A Probabilistic Perspective"](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1725476) book (on Canvas)
-	* Read through chapters 2.2.3, 2.3.1, 2.3.2, 3.2, 3.5. Make sure you understand Bayes rule well by working out examples.
+	* §2.2:  Probability Review (esp §2.2.3)
+	* §2.3.1-2.3.2:  Binomial, Bernoulli, Multinomial, and Multinoulli distributions
+	* §3.2:  Bayesian Concept Learning
+	* §3.5:  Naive Bayes Classifiers
+	* Make sure you understand Bayes rule well by working out examples.
 
 (Tu 10/30/18) **Lecture is Cancelled**
 	
