@@ -296,6 +296,14 @@ No Required Reading
 
 (Tu 10/30/18) **Lecture is Cancelled**
 	
+
+(Th 11/1/18) **Lecture #18:  Beta-Binomial model, Conjugate Prior, Naive Bayes**
+
+*Required Preparation before Class*
+* Dan Navarro, Amy Perfors [In Introduction to the Beta-Binomial Model](https://compcogscisydney.org/ccs/technote_betabinomial.pdf)
+
+
+
+
 ### Tentative Schedule (*read ahead at your own risk!*)
 
-(Th 11/1/18) **Lecture #18:  ???**
