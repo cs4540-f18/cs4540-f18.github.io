@@ -284,7 +284,7 @@ No Required Reading
 * Zheng, Missouri State Lecture Notes, [*Maximum Likelihood Estimation*](http://people.missouristate.edu/songfengzheng/Teaching/MTH541/Lecture%20notes/MLE.pdf)
 	* Read through pages 1-7
 
-(Th 10/25/18) **Lecture #17:  Bayes Rule and Naive Bayes Algorithm** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture17_NaiveBayes.ipynb))
+(Th 10/25/18) **Lecture #17:  Bayes Rule, Binomial, Regression, MAP Estimation** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture17_NaiveBayes.ipynb))
 
 *Required Preparation before Class*
 * Kevin Murphy, ["Machine Learning:  A Probabilistic Perspective"](https://gatech.instructure.com/courses/22666/files/folder/reading?preview=1725476) book (on Canvas)
@@ -297,10 +297,10 @@ No Required Reading
 (Tu 10/30/18) **Lecture is Cancelled**
 	
 
-(Th 11/1/18) **Lecture #18:  Beta-Binomial model, Conjugate Prior, Naive Bayes**
+(Th 11/1/18) **Lecture #18:  Beta-Binomial model, Conjugate Prior, Naive Bayes** ([Lecture Slides](https://github.com/cs4540-f18/cs4540-f18.github.io/blob/master/lectures/cs4540-f18-lecture18_NaiveBayes_Beta_Binomial.ipynb))
 
 *Required Preparation before Class*
-* Dan Navarro, Amy Perfors [In Introduction to the Beta-Binomial Model](https://compcogscisydney.org/ccs/technote_betabinomial.pdf)
+* Dan Navarro, Amy Perfors [In Introduction to the Beta-Binomial Model](https://compcogscisydney.org/ccs/technote_betabinomial.pdf) 
 
 
 
