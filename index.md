@@ -303,7 +303,7 @@ No Required Reading
 * Dan Navarro, Amy Perfors [In Introduction to the Beta-Binomial Model](https://compcogscisydney.org/ccs/technote_betabinomial.pdf) 
 
 
-(Th 11/6/18) **Lecture #19:  Logistic Regression Model** ([Lecture Slides - Soon](https://example.com))
+(Tu 11/6/18) **Lecture #19:  Logistic Regression Model** ([Lecture Slides - Soon](https://example.com))
 
 *Required Preparation before Class*
 * Charles Elkan [Maximum Likelihood, Logistic Regression,
@@ -311,6 +311,11 @@ and Stochastic Gradient Training](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)
     * You only need to read through the first 7 pages, although you are welcome to continue!
 
 
+(Th 11/8/18) **Lecture #20:  Clustering** ([Lecture Slides - Soon](https://example.com))
+
+*Required Preparation before Class*
+* Lior Rokach and Oded Maimon [Clustering Methods](https://www.cs.swarthmore.edu/~meeden/cs63/s16/reading/Clustering.pdf)
+    * Read Sections 1-4, and Section 5.2
 
 
 ### Tentative Schedule (*read ahead at your own risk!*)
