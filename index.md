@@ -317,6 +317,18 @@ and Stochastic Gradient Training](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)
 * Lior Rokach and Oded Maimon [Clustering Methods](https://www.cs.swarthmore.edu/~meeden/cs63/s16/reading/Clustering.pdf)
     * Read Sections 1-4, and Section 5.2
 
+(Tu 11/13/18) **Lecture #21:  Expectation Maximization** ([Lecture Slides - Soon](http://example.com))
+
+*Required Preparation before Class*
+* Benjamin Bray [Expectation Maximization](https://github.com/eecs445-f16/umich-eecs445-f16/blob/master/lecture17_clustering-mixtures-em/eecs445-f16-em-notes.pdf)
+    * Read pages 1-7
+
+(Th 11/15/18) **Lecture #22:  EM and the Gaussian Mixture Model** ([Lecture Slides - Soon](http://example.com))
+
+*Required Preparation before Class*
+* Benjamin Bray [Expectation Maximization](https://github.com/eecs445-f16/umich-eecs445-f16/blob/master/lecture17_clustering-mixtures-em/eecs445-f16-em-notes.pdf)
+    * Read pages 8-12
+
 
 ### Tentative Schedule (*read ahead at your own risk!*)
 
