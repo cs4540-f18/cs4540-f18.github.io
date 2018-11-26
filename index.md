@@ -329,10 +329,15 @@ and Stochastic Gradient Training](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)
 * Benjamin Bray [Expectation Maximization](https://github.com/eecs445-f16/umich-eecs445-f16/blob/master/lecture17_clustering-mixtures-em/eecs445-f16-em-notes.pdf)
     * Read pages 8-12
     
-(Tu 11/13/18) **Lecture #23:  Exponential Weights Algorithm** ([Lecture Slides - Soon](http://example.com))
+(Tu 11/27/18) **Lecture #23:  Exponential Weights Algorithm** ([Lecture Slides - Soon](http://example.com))
 
 *Required Preparation before Class*
-* Jacob Abernethy [Online Learning/Exponential Weights](http://web.eecs.umich.edu/~jabernet/eecs598course/fall2015/web/notes/lec16_110515.pdf)
+* [Online Learning/Exponential Weights](http://web.eecs.umich.edu/~jabernet/eecs598course/fall2015/web/notes/lec16_110515.pdf)
+
+(Th 11/29/18) **Lecture #24:  Boosting** ([Lecture Slides - Soon](http://example.com))
+
+*Required Preparation before Class*
+* [Boosting](https://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0303.pdf)
 
 ### Tentative Schedule (*read ahead at your own risk!*)
 
