@@ -329,12 +329,13 @@ and Stochastic Gradient Training](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)
 * Benjamin Bray [Expectation Maximization](https://github.com/eecs445-f16/umich-eecs445-f16/blob/master/lecture17_clustering-mixtures-em/eecs445-f16-em-notes.pdf)
     * Read pages 8-12
     
-(Tu 11/27/18) **Lecture #23:  Exponential Weights Algorithm** ([Lecture Slides - Soon](http://example.com))
+(Tu 11/27/18) **Lecture #23:  Exponential Weights Algorithm** (No slides -- board lecture)
 
 *Required Preparation before Class*
 * [Online Learning/Exponential Weights](http://web.eecs.umich.edu/~jabernet/eecs598course/fall2015/web/notes/lec16_110515.pdf)
-
-(Th 11/29/18) **Lecture #24:  Boosting** ([Lecture Slides - Soon](http://example.com))
+  + You can skip Section 16.2 since we have already discussed the perceptron algorithm
+  
+(Th 11/29/18) **Lecture #24:  Boosting** 
 
 *Required Preparation before Class*
 * [The Boosting Approach to Machine Learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/boosting-survey.pdf)
