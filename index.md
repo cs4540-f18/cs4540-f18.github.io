@@ -337,6 +337,10 @@ and Stochastic Gradient Training](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)
 (Th 11/29/18) **Lecture #24:  Boosting** ([Lecture Slides - Soon](http://example.com))
 
 *Required Preparation before Class*
+* [The Boosting Approach to Machine Learning](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/boosting-survey.pdf)
+  + You only need to read pages 1-5
+
+*Additional Reading*
 * [Boosting](https://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0303.pdf)
 
 ### Tentative Schedule (*read ahead at your own risk!*)
